@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-dakota-alert",
+  "version": "0.1.0",
+  "description": "Dakota Alert driveway alarm support for Homebridge: https://github.com/nfarina/homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "dakota-alert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbond/homebridge-dakota-alert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wbond/homebridge-dakota-alert/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.4.16"
+  },
+  "dependencies": {
+    "rpi-gpio": "^0.9.1"
+  }
+}
