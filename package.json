@@ -15,10 +15,10 @@
     "url": "https://github.com/wbond/homebridge-dakota-alert/issues"
   },
   "engines": {
-    "node": ">=0.12.0",
-    "homebridge": ">=0.4.16"
+    "node": ">=10.0.0",
+    "homebridge": ">=1.3.4"
   },
   "dependencies": {
-    "rpi-gpio": "^0.9.1"
+    "rpi-gpio": "^2.1.7"
   }
 }
